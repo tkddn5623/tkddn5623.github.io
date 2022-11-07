@@ -1,0 +1,15 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css");
+body {
+    background: #eeeeee;
+}
+#hello {
+    margin: auto;
+    font-size: 60px;
+}
+.hd {
+    margin: auto;
+    color:brown
+}
+.tb {
+    padding: 10px;
+}
